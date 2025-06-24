@@ -1,0 +1,1 @@
+Take all verilog design reference except from testbench from folder "8-FIFO/async_fifo".

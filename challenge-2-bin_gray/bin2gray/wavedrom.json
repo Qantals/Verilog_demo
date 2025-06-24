@@ -1,0 +1,4 @@
+{signal:[
+  {name:"bin", wave:"x================x", data:'0 1 2 3 4 5 6 7 8 9 A B C D E F'},
+  {name:"gray", wave:"x================x", data:'0 1 3 2 6 7 5 4 C D F E A B 9 8'}
+]}

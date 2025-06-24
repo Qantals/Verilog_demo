@@ -1,0 +1,1 @@
+This edition automatically resets while entering "IDLE_S" state (including "done" signal).

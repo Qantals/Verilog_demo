@@ -1,0 +1,1 @@
+Take all verilog design reference except from top module from folder "9-UART".
